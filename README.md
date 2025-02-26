@@ -5,4 +5,4 @@
 
 复现效果：
 
-[](./music.mp4)
+<img src="./music.mp4">
