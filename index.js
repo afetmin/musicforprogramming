@@ -5,7 +5,7 @@ const G = document.getElementById("green");
 const play = document.getElementById("play");
 
 const audioCtx = new AudioContext();
-const audio = new Audio('./daoxiang.mp3');
+const audio = new Audio('daoxiang.mp3');
 
 play.addEventListener('click', () => {
     if (!audio.paused) {
